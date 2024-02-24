@@ -1,3 +1,18 @@
+Criar projeto no firebase
+
+* add firestore
+
+* add projeto na web no firebase
+
+* criar arquivo .env.local
+
+* add as informações no .env.local que temos no .env.local.example
+
+* trocar os dados pelos do arquivo gerado no add web no firebase
+
+* npm run dev e aproveite
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
